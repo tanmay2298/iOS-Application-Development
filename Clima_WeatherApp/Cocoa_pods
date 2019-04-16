@@ -1,0 +1,258 @@
+Last login: Sat Apr 13 17:07:06 on ttys000
+Tanmays-Air-3:~ tanmaygulati$ sudo gem install cocoapods
+Password:
+Sorry, try again.
+Password:
+Fetching: ruby-macho-1.4.0.gem (100%)
+Successfully installed ruby-macho-1.4.0
+Fetching: nap-1.1.0.gem (100%)
+Successfully installed nap-1.1.0
+Fetching: gh_inspector-1.1.3.gem (100%)
+Successfully installed gh_inspector-1.1.3
+Fetching: fourflusher-2.2.0.gem (100%)
+Successfully installed fourflusher-2.2.0
+Fetching: escape-0.0.4.gem (100%)
+Successfully installed escape-0.0.4
+Fetching: colored2-3.1.2.gem (100%)
+Successfully installed colored2-3.1.2
+Fetching: concurrent-ruby-1.1.5.gem (100%)
+Successfully installed concurrent-ruby-1.1.5
+Fetching: i18n-0.9.5.gem (100%)
+Successfully installed i18n-0.9.5
+Fetching: thread_safe-0.3.6.gem (100%)
+Successfully installed thread_safe-0.3.6
+Fetching: tzinfo-1.2.5.gem (100%)
+Successfully installed tzinfo-1.2.5
+Fetching: activesupport-4.2.11.1.gem (100%)
+Successfully installed activesupport-4.2.11.1
+Fetching: atomos-0.1.3.gem (100%)
+Successfully installed atomos-0.1.3
+Fetching: CFPropertyList-3.0.0.gem (100%)
+Successfully installed CFPropertyList-3.0.0
+Fetching: claide-1.0.2.gem (100%)
+Successfully installed claide-1.0.2
+Fetching: nanaimo-0.2.6.gem (100%)
+Successfully installed nanaimo-0.2.6
+Fetching: xcodeproj-1.8.2.gem (100%)
+Successfully installed xcodeproj-1.8.2
+Fetching: molinillo-0.6.6.gem (100%)
+Successfully installed molinillo-0.6.6
+Fetching: cocoapods-try-1.1.0.gem (100%)
+Successfully installed cocoapods-try-1.1.0
+Fetching: netrc-0.11.0.gem (100%)
+Successfully installed netrc-0.11.0
+Fetching: cocoapods-trunk-1.3.1.gem (100%)
+Successfully installed cocoapods-trunk-1.3.1
+Fetching: cocoapods-stats-1.1.0.gem (100%)
+Successfully installed cocoapods-stats-1.1.0
+Fetching: cocoapods-search-1.0.0.gem (100%)
+Successfully installed cocoapods-search-1.0.0
+Fetching: cocoapods-plugins-1.0.0.gem (100%)
+Successfully installed cocoapods-plugins-1.0.0
+Fetching: cocoapods-downloader-1.2.2.gem (100%)
+Successfully installed cocoapods-downloader-1.2.2
+Fetching: cocoapods-deintegrate-1.0.4.gem (100%)
+Successfully installed cocoapods-deintegrate-1.0.4
+Fetching: fuzzy_match-2.0.4.gem (100%)
+Successfully installed fuzzy_match-2.0.4
+Fetching: cocoapods-core-1.6.1.gem (100%)
+Successfully installed cocoapods-core-1.6.1
+Fetching: cocoapods-1.6.1.gem (100%)
+Successfully installed cocoapods-1.6.1
+Parsing documentation for ruby-macho-1.4.0
+Installing ri documentation for ruby-macho-1.4.0
+Parsing documentation for nap-1.1.0
+Installing ri documentation for nap-1.1.0
+Parsing documentation for gh_inspector-1.1.3
+Installing ri documentation for gh_inspector-1.1.3
+Parsing documentation for fourflusher-2.2.0
+Installing ri documentation for fourflusher-2.2.0
+Parsing documentation for escape-0.0.4
+Installing ri documentation for escape-0.0.4
+Parsing documentation for colored2-3.1.2
+Installing ri documentation for colored2-3.1.2
+Parsing documentation for concurrent-ruby-1.1.5
+Installing ri documentation for concurrent-ruby-1.1.5
+Parsing documentation for i18n-0.9.5
+Installing ri documentation for i18n-0.9.5
+Parsing documentation for thread_safe-0.3.6
+Installing ri documentation for thread_safe-0.3.6
+Parsing documentation for tzinfo-1.2.5
+Installing ri documentation for tzinfo-1.2.5
+Parsing documentation for activesupport-4.2.11.1
+Installing ri documentation for activesupport-4.2.11.1
+Parsing documentation for atomos-0.1.3
+Installing ri documentation for atomos-0.1.3
+Parsing documentation for CFPropertyList-3.0.0
+Installing ri documentation for CFPropertyList-3.0.0
+Parsing documentation for claide-1.0.2
+Installing ri documentation for claide-1.0.2
+Parsing documentation for nanaimo-0.2.6
+Installing ri documentation for nanaimo-0.2.6
+Parsing documentation for xcodeproj-1.8.2
+Installing ri documentation for xcodeproj-1.8.2
+Parsing documentation for molinillo-0.6.6
+Installing ri documentation for molinillo-0.6.6
+Parsing documentation for cocoapods-try-1.1.0
+Installing ri documentation for cocoapods-try-1.1.0
+Parsing documentation for netrc-0.11.0
+Installing ri documentation for netrc-0.11.0
+Parsing documentation for cocoapods-trunk-1.3.1
+Installing ri documentation for cocoapods-trunk-1.3.1
+Parsing documentation for cocoapods-stats-1.1.0
+Installing ri documentation for cocoapods-stats-1.1.0
+Parsing documentation for cocoapods-search-1.0.0
+Installing ri documentation for cocoapods-search-1.0.0
+Parsing documentation for cocoapods-plugins-1.0.0
+Installing ri documentation for cocoapods-plugins-1.0.0
+Parsing documentation for cocoapods-downloader-1.2.2
+Installing ri documentation for cocoapods-downloader-1.2.2
+Parsing documentation for cocoapods-deintegrate-1.0.4
+Installing ri documentation for cocoapods-deintegrate-1.0.4
+Parsing documentation for fuzzy_match-2.0.4
+Installing ri documentation for fuzzy_match-2.0.4
+Parsing documentation for cocoapods-core-1.6.1
+Installing ri documentation for cocoapods-core-1.6.1
+Parsing documentation for cocoapods-1.6.1
+Installing ri documentation for cocoapods-1.6.1
+Done installing documentation for ruby-macho, nap, gh_inspector, fourflusher, escape, colored2, concurrent-ruby, i18n, thread_safe, tzinfo, activesupport, atomos, CFPropertyList, claide, nanaimo, xcodeproj, molinillo, cocoapods-try, netrc, cocoapods-trunk, cocoapods-stats, cocoapods-search, cocoapods-plugins, cocoapods-downloader, cocoapods-deintegrate, fuzzy_match, cocoapods-core, cocoapods after 33 seconds
+28 gems installed
+Tanmays-Air-3:~ tanmaygulati$ pod setup --verbose
+
+Setting up CocoaPods master repo
+
+Cloning spec repo `master` from `https://github.com/CocoaPods/Specs.git` (branch `master`)
+  $ /usr/bin/git clone https://github.com/CocoaPods/Specs.git master --progress
+  Cloning into 'master'...
+  remote: Enumerating objects: 66, done.         
+  remote: Counting objects: 100% (66/66), done.        
+  remote: Compressing objects: 100% (55/55), done.        
+^C[!] Cancelledects:  10% (323813/2979140), 64.55 MiB | 503.00 KiB/s   
+/Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/executable.rb:155:in `value': Interrupt
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/executable.rb:155:in `block in popen3'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/open3.rb:205:in `popen_run'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/open3.rb:95:in `popen3'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/executable.rb:150:in `popen3'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/executable.rb:63:in `execute_command'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/executable.rb:27:in `block in executable'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/repo/add.rb:88:in `block (2 levels) in clone_repo'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/repo/add.rb:83:in `chdir'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/repo/add.rb:83:in `block in clone_repo'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/config.rb:41:in `with_changes'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/repo/add.rb:82:in `clone_repo'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/repo/add.rb:48:in `block in run'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/user_interface.rb:64:in `section'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/repo/add.rb:46:in `run'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/setup.rb:54:in `add_master_repo'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/setup.rb:27:in `block in run'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/user_interface.rb:64:in `section'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command/setup.rb:21:in `run'
+	from /Library/Ruby/Gems/2.3.0/gems/claide-1.0.2/lib/claide/command.rb:334:in `run'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib/cocoapods/command.rb:52:in `run'
+	from /Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/bin/pod:55:in `<top (required)>'
+	from /usr/local/bin/pod:22:in `load'
+	from /usr/local/bin/pod:22:in `<main>'
+
+Tanmays-Air-3:~ tanmaygulati$ pod setup --verbose
+
+Setting up CocoaPods master repo
+
+Cloning spec repo `master` from `https://github.com/CocoaPods/Specs.git` (branch `master`)
+  $ /usr/bin/git clone https://github.com/CocoaPods/Specs.git master --progress
+  Cloning into 'master'...
+  remote: Enumerating objects: 66, done.         
+  remote: Counting objects: 100% (66/66), done.        
+  remote: Compressing objects: 100% (55/55), done.        
+  remote: Total 2979140 (delta 15), reused 27 (delta 9), pack-reused 2979074        
+  Receiving objects: 100% (2979140/2979140), 631.45 MiB | 1.06 MiB/s, done.
+  Resolving deltas: 100% (1790117/1790117), done.
+  Checking out files: 100% (320645/320645), done.
+  $ /usr/bin/git checkout master
+  Already on 'master'
+  Your branch is up to date with 'origin/master'.
+
+CocoaPods 1.7.0.beta.3 is available.
+To update use: `sudo gem install cocoapods --pre`
+[!] This is a test version we'd love you to try.
+
+For more information, see https://blog.cocoapods.org and the CHANGELOG for this version at https://github.com/CocoaPods/CocoaPods/releases/tag/1.7.0.beta.3
+
+Setup completed
+Tanmays-Air-3:~ tanmaygulati$ ls
+Applications		Movies			eclipse-workspace
+Desktop			Music			mpi
+Documents		Pictures		mysql
+Downloads		Public			nltk_data
+GNS3			Work			scikit_learn_data
+Guitar			dosbox
+Library			eclipse
+Tanmays-Air-3:~ tanmaygulati$ cd Desktop/
+Tanmays-Air-3:Desktop tanmaygulati$ ls
+CV
+Clima_WeatherApp
+Cracking the Coding Interview, 6th Edition.pdf
+Expenditure_Management
+Manipal Imp
+Schedule.pdf
+Seminars
+Testing
+Why Do We Fall - Motivational Video.mp4
+how_to_develop_a_super_memory_and_learn_like_a_genius_with_jim_kwik__1a4938cd-ea43-4987-9ef1-3ef440966842__evergreen.pdf
+r_drivingLicense.aspx.pdf
+tanmaysql.png
+~$nmay_Resume@Rev29:12:2018.docx
+Tanmays-Air-3:Desktop tanmaygulati$ cd Clima_WeatherApp/
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ pod init
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ ¬ß
+-bash: ¬ß: command not found
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ ls
+Clima		Clima.xcodeproj	Podfile
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ ls
+Clima		Clima.xcodeproj	Podfile
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ open -a Xcode Podfile 
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ pod --version
+1.6.1
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ pod install
+Analyzing dependencies
+[!] Unable to find a specification for `SwiftJSON`
+
+You have either:
+ * out-of-date source repos which you can update with `pod repo update` or with `pod install --repo-update`.
+ * mistyped the name or version.
+ * not added the source repo that hosts the Podspec to your Podfile.
+
+Note: as of CocoaPods 1.0, `pod repo update` does not happen on `pod install` by default.
+
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ open -a Xcode Podfile 
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ pod install
+Analyzing dependencies
+Downloading dependencies
+Installing Alamofire (4.8.2)
+Installing SVProgressHUD (2.2.5)
+Installing SwiftyJSON (4.3.0)
+Generating Pods project
+Integrating client project
+
+[!] Please close any current Xcode sessions and use `Clima.xcworkspace` for this project from now on.
+Sending stats
+Pod installation complete! There are 3 dependencies from the Podfile and 3 total pods installed.
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ open -a Xcode Podfile 
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ pod install
+Analyzing dependencies
+Downloading dependencies
+Using Alamofire (4.8.2)
+Using SVProgressHUD (2.2.5)
+Using SwiftyJSON (4.3.0)
+Generating Pods project
+Integrating client project
+Sending stats
+Pod installation complete! There are 3 dependencies from the Podfile and 3 total pods installed.
+Tanmays-Air-3:Clima_WeatherApp tanmaygulati$ 
+  [Restored 13-Apr-2019 at 9:58:39 PM]
+Last login: Sat Apr 13 21:53:10 on console
+Restored session: Sat Apr 13 21:37:20 IST 2019
+Tanmays-MacBook-Air-3:Clima_WeatherApp tanmaygulati$ 
+  [Restored 13-Apr-2019 at 11:56:53 PM]
+Last login: Sat Apr 13 23:56:48 on console
+Restored session: Sat Apr 13 23:55:58 IST 2019
+Tanmays-MacBook-Air-3:Clima_WeatherApp tanmaygulati$ 
